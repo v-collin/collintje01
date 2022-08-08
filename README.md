@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Collin
+- 🌱 I’m currently learning Laravel-8 and Java
+- 📫 Contact me on Ctersteege01@gmail.com
+- 📝 I'm currently working on COM-Reloaded(A Java Minecraft plugin that gives you the ability to play Call of Duty gamemodes in Minecraft!)
