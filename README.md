@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Collin
-- 🌱 I’m currently learning Laravel-9
-- 📫 Contact me on Ctersteege01@gmail.com
+- 🌱 I’m currently learning Vue.js in combination with Laravel
 - 📝 I'm currently working on several diffrent websites
